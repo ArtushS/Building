@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.cesium-for-unreal-samples-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/geg/geg IT/UNREAL/UNREAL myprojects/CITY/gMarash2/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Cesium for Unreal Samples-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}

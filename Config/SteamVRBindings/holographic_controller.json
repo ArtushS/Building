@@ -1,0 +1,12 @@
+larity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.01.13-07.51.41:476][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.01.13-07.51.41:476][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.01.13-07.51.41:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/geg/geg IT/UNREAL/UNREAL myprojects/APRICOT/ApricotRPG/AdvancedThermalScope/Saved/Config/Windows/Engine.ini]
+[2023.01.13-07.51.41:476][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.01.13-07.51.41:476][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2023.01.13-07.51.41:476][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2023.01.13-07.51.41:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/geg/geg IT/UNREAL/UNREAL myprojects/APRICOT/ApricotRPG/Ad
